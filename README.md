@@ -1,4 +1,4 @@
-<img width="500" height="500" alt="rotate2" src="https://github.com/user-attachments/assets/8e0dc252-b54f-4fb8-a458-5375e57d753d" />
+<img width="600" height="600" alt="rotate2" src="https://github.com/user-attachments/assets/8e0dc252-b54f-4fb8-a458-5375e57d753d" />
 
 # Symphorica's UGC Sources
 
