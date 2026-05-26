@@ -1,5 +1,3 @@
-<img width="600" height="600" alt="rotate2" src="https://github.com/user-attachments/assets/8e0dc252-b54f-4fb8-a458-5375e57d753d" />
-
 # Symphorica's UGC Sources
 
 A small collection of files for my accessories that are completely free to use, modify, and upload!
@@ -14,6 +12,8 @@ A small collection of files for my accessories that are completely free to use, 
 
 > [!WARNING]
 > Files that end in **.lzp** and **.pdn** are textures requiring [LazPaint](https://lazpaint.github.io/) or [Paint.NET](https://getpaint.net/)
+
+<img width="500" height="500" alt="rotate2" src="https://github.com/user-attachments/assets/8e0dc252-b54f-4fb8-a458-5375e57d753d" />
 
 ## For creators
 
