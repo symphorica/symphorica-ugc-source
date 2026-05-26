@@ -35,13 +35,9 @@ What you're about to see is assuming you have one of the accessories in this col
 
 2. On the splashscreen, press **"Open"**
 
-<img width="500" height="450" alt="2" src="https://github.com/user-attachments/assets/b1801710-06d9-4ee5-af5f-18e1f425b684" />
-
-3. Locate your **.blend** file and open it
+3. Locate your **.blend** file
 
 4. Save and export as **.obj** or **.fbx** (whichever works)
-
-<img width="500" height="450" alt="4" src="https://github.com/user-attachments/assets/9eb59ed1-d5cf-47bf-a388-10983e2980db" />
 
 5. Open a place in Studio and create a rig and MeshPart
 
@@ -63,8 +59,6 @@ What you're about to see is assuming you have one of the accessories in this col
 
 11. Using another plugin called [Thumb Maker](https://create.roblox.com/store/asset/14034349734/), select your new **"MeshPartAccessory"** and adjust its thumbnail (press button)
 
-<img width="500" height="400" alt="image" src="https://github.com/user-attachments/assets/c6666b91-f437-4f4b-b050-823fd0aec4c4" />
-
 12. Get and import [Kairoh's Accessory Testing Models](https://create.roblox.com/store/asset/79048271398967/Kairoh-Accesory-Models) from the Creator Store
 
 13. Replace the 1.0's **"Placeholder Accesory"** with your **"MeshPartAccessory"**
@@ -72,8 +66,6 @@ What you're about to see is assuming you have one of the accessories in this col
 <img width="500" height="370" alt="13" src="https://github.com/user-attachments/assets/27f26f05-cd77-49d4-8083-74adacc28166" />
 
 14. Play, test, and repeat steps 9-13 for adjustments
-
-<img width="500" height="370" alt="14" src="https://github.com/user-attachments/assets/600f89d9-dc1b-428f-9b6e-ce068598233f" />
 
 15. Right-click your accessory, go to **"Export --> Save to Roblox"** and do as follows:
 
@@ -89,7 +81,7 @@ Congrats! You can now publish your UGC to the catalog.
 
 <img width="945" height="393" alt="image" src="https://github.com/user-attachments/assets/a54daa56-e8cd-4fb0-b499-08159fd8b9c0" />
 
-### Afterword
+## Afterword
 
 The way I set these files up is to allow you to modify everything.
 
